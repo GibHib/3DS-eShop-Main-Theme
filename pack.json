@@ -1,0 +1,9 @@
+{
+  "name": "3DS eShop - Main Theme",
+  "description": "Shop for games on Steam in style with the 3DS eShop music pack.",
+  "author": "GibHib",
+  "version": "v1.0",
+  "manifest_version": 1,
+  "music": true,
+  "ignore": []
+}
